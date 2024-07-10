@@ -9,7 +9,7 @@ def get_spark_session(app_name, master="local[1]"):
     return SparkSession.builder.master(master).appName(app_name).getOrCreate()
 
 def read_kafka_stream(spark, servers, topic):
-    df = spark.readStream.format("kafka").option("kafka.bootstrap.servers", servers).option("subscribe", topic).load()
+    df = spark.readStream.format("kafka").option("kafka.bootstrap.servers", servers).option("subscribe", topic).option("failOnDataLoss", "false").load()
     return df.selectExpr("CAST(value AS STRING)")
 
 def write_stream_to_parquet(df, export_path, checkpoint_location):
