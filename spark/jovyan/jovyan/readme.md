@@ -42,11 +42,17 @@ The acquired data was cleaned by removing duplicate data points, columns with co
 # Results and evaluation
 Provide an overview of the results of your project, including any relevant metrics and graphs. Include explanations of any evaluation methodologies and how they were used to assess the quality of the model. You can also make it appealing by including any pictures of your analysis or visualizations.
 
+
+
 # Future work
-Outline potential future work that can be done to extend the project or improve its functionality. This will help others understand the scope of your project and identify areas where they can contribute.
+Some future additions that could be made to this project include:
+* Gathering more data over a longer period to look at monthly, weekly, or even yearly trends.
+* Pairing the UK rail data with another data source, such as a weather API, to gather additional insight into outside factors.
 
 # Acknowledgments/References
 ## Authors
 
-* Riley Sample rcs622.rcs@gmail.com
+* Riley Sample:
+  - rcs622.rcs@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/rileysample/)
 * Brianna Browning
