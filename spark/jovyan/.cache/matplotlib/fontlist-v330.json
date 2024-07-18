@@ -8,69 +8,15 @@
   },
   "afmlist": [
     {
-      "fname": "fonts/afm/pzdr.afm",
-      "name": "ITC Zapf Dingbats",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvbo8an.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "condensed",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/cmtt10.afm",
-      "name": "Computer Modern",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvro8an.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "condensed",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/ptmbi8a.afm",
-      "name": "Times",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pcrr8a.afm",
-      "name": "Courier",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "fonts/afm/pzcmi8a.afm",
       "name": "ITC Zapf Chancery",
       "style": "italic",
+=======
+      "fname": "fonts/afm/pzdr.afm",
+      "name": "ITC Zapf Dingbats",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "medium",
       "stretch": "normal",
@@ -78,49 +24,124 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
       "fname": "fonts/afm/pcrb8a.afm",
       "name": "Courier",
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
+=======
+      "fname": "fonts/afm/phvbo8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/pncr8a.afm",
-      "name": "New Century Schoolbook",
+<<<<<<< HEAD
+      "fname": "fonts/afm/ptmbi8a.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/cmtt10.afm",
+      "name": "Computer Modern",
       "style": "normal",
       "variant": "normal",
-      "weight": "roman",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvro8a.afm",
+=======
+      "fname": "fonts/afm/phvro8an.afm",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+<<<<<<< HEAD
+      "stretch": "normal",
+=======
+      "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
       "fname": "fonts/afm/pagk8a.afm",
       "name": "ITC Avant Garde Gothic",
       "style": "normal",
       "variant": "normal",
       "weight": "book",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pagdo8a.afm",
-      "name": "ITC Avant Garde Gothic",
+=======
+      "fname": "fonts/afm/ptmbi8a.afm",
+      "name": "Times",
       "style": "italic",
       "variant": "normal",
-      "weight": "demi",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/pdfcorefonts/Courier-Bold.afm",
+<<<<<<< HEAD
+      "fname": "fonts/afm/pplr8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+=======
+      "fname": "fonts/afm/pcrr8a.afm",
       "name": "Courier",
       "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvb8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/pzcmi8a.afm",
+      "name": "ITC Zapf Chancery",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Courier-BoldOblique.afm",
+      "name": "Courier",
+      "style": "italic",
+=======
+      "fname": "fonts/afm/pcrb8a.afm",
+      "name": "Courier",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
@@ -128,21 +149,109 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/ptmr8a.afm",
-      "name": "Times",
+<<<<<<< HEAD
+      "fname": "fonts/afm/pagd8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+=======
+      "fname": "fonts/afm/pncr8a.afm",
+      "name": "New Century Schoolbook",
       "style": "normal",
       "variant": "normal",
       "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pcrr8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/pagk8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "book",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/putb8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/pagdo8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pncri8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/pdfcorefonts/Courier-Bold.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Times-BoldItalic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/ptmr8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "fonts/afm/pbkdi8a.afm",
       "name": "ITC Bookman",
       "style": "italic",
       "variant": "normal",
       "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -158,9 +267,123 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/ZapfDingbats.afm",
+      "name": "ZapfDingbats",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
       "fname": "fonts/afm/pagd8a.afm",
       "name": "ITC Avant Garde Gothic",
       "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/ptmr8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+=======
+      "fname": "fonts/pdfcorefonts/Courier-Oblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pplb8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/phvr8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pbkl8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+=======
+      "fname": "fonts/afm/pncb8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvbo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/psyr.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Symbol.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/pdfcorefonts/Times-Roman.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pagdo8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+=======
+      "fname": "fonts/afm/pbkd8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "demi",
       "stretch": "normal",
@@ -168,8 +391,80 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/pdfcorefonts/Courier-Oblique.afm",
-      "name": "Courier",
+<<<<<<< HEAD
+      "fname": "fonts/afm/psyr.afm",
+      "name": "Symbol",
+=======
+      "fname": "fonts/afm/cmr10.afm",
+      "name": "Computer Modern",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/cmr10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+=======
+      "fname": "fonts/pdfcorefonts/Helvetica-Oblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pncr8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+=======
+      "fname": "fonts/afm/cmex10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvbo8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+=======
+      "fname": "fonts/afm/phvro8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Times-Italic.afm",
+=======
+      "fname": "fonts/afm/ptmri8a.afm",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "name": "Times",
       "style": "italic",
       "variant": "normal",
       "weight": "medium",
@@ -178,18 +473,49 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/phvr8a.afm",
-      "name": "Helvetica",
-      "style": "normal",
+<<<<<<< HEAD
+      "fname": "fonts/afm/putri8a.afm",
+      "name": "Utopia",
+      "style": "italic",
       "variant": "normal",
-      "weight": "medium",
+      "weight": "regular",
+=======
+      "fname": "fonts/afm/pbkli8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/pncb8a.afm",
-      "name": "New Century Schoolbook",
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Times-Roman.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+=======
+      "fname": "fonts/afm/phvlo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Courier-Bold.afm",
+      "name": "Courier",
+=======
+      "fname": "fonts/afm/ptmb8a.afm",
+      "name": "Times",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
@@ -198,9 +524,349 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/psyr.afm",
-      "name": "Symbol",
+<<<<<<< HEAD
+      "fname": "fonts/afm/pbkdi8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+=======
+      "fname": "fonts/afm/pplbi8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pncbi8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/pdfcorefonts/ZapfDingbats.afm",
+      "name": "ZapfDingbats",
       "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/cmmi10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/phvbo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvr8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+=======
+      "fname": "fonts/afm/pncbi8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Helvetica-Bold.afm",
+      "name": "Helvetica",
+=======
+      "fname": "fonts/afm/pplb8a.afm",
+      "name": "Palatino",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/cmtt10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pbkli8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+=======
+      "fname": "fonts/afm/cmmi10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/cmex10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/pdfcorefonts/Helvetica-BoldOblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvr8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/phvb8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Helvetica-Oblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/pbkl8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pplbi8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+=======
+      "fname": "fonts/pdfcorefonts/Times-Bold.afm",
+      "name": "Times",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Courier-Oblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
+      "fname": "fonts/afm/phvl8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pagko8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "book",
+=======
+      "fname": "fonts/afm/putb8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvro8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+=======
+      "fname": "fonts/afm/pcrro8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvl8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+=======
+      "fname": "fonts/afm/pplr8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Helvetica.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+=======
+      "fname": "fonts/afm/phvb8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/putbi8a.afm",
+      "name": "Utopia",
+=======
+      "fname": "fonts/pdfcorefonts/Times-BoldItalic.afm",
+      "name": "Times",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Helvetica-BoldOblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/pdfcorefonts/Times-Italic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/ptmb8a.afm",
+      "name": "Times",
+=======
+      "fname": "fonts/pdfcorefonts/Helvetica-Bold.afm",
+      "name": "Helvetica",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pplri8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+=======
+      "fname": "fonts/pdfcorefonts/Courier.afm",
+      "name": "Courier",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "medium",
       "stretch": "normal",
@@ -208,11 +874,79 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/pdfcorefonts/Times-Roman.afm",
+<<<<<<< HEAD
+      "fname": "fonts/afm/pcrro8a.afm",
+      "name": "Courier",
+      "style": "italic",
+=======
+      "fname": "fonts/pdfcorefonts/Helvetica.afm",
+      "name": "Helvetica",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/ptmri8a.afm",
+      "name": "Times",
+=======
+      "fname": "fonts/afm/pplri8a.afm",
+      "name": "Palatino",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Times-Bold.afm",
       "name": "Times",
       "style": "normal",
       "variant": "normal",
-      "weight": "roman",
+      "weight": "bold",
+=======
+      "fname": "fonts/afm/putr8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/pncb8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "fonts/pdfcorefonts/Symbol.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvlo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -228,349 +962,51 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/afm/cmr10.afm",
-      "name": "Computer Modern",
+      "fname": "fonts/afm/pzdr.afm",
+      "name": "ITC Zapf Dingbats",
       "style": "normal",
       "variant": "normal",
       "weight": "medium",
       "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Helvetica-Oblique.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/cmex10.afm",
-      "name": "Computer Modern",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvro8a.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/ptmri8a.afm",
-      "name": "Times",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pbkli8a.afm",
-      "name": "ITC Bookman",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "light",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvlo8a.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "light",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/ptmb8a.afm",
-      "name": "Times",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pplbi8a.afm",
-      "name": "Palatino",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/ZapfDingbats.afm",
-      "name": "ZapfDingbats",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvbo8a.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pncbi8a.afm",
-      "name": "New Century Schoolbook",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pplb8a.afm",
-      "name": "Palatino",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pcrbo8a.afm",
-      "name": "Courier",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/cmmi10.afm",
-      "name": "Computer Modern",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Helvetica-BoldOblique.afm",
-      "name": "Helvetica",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvb8a.afm",
-      "name": "Helvetica",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pbkl8a.afm",
-      "name": "ITC Bookman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "light",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Times-Bold.afm",
-      "name": "Times",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvl8a.afm",
-      "name": "Helvetica",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "light",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/putb8a.afm",
-      "name": "Utopia",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pcrro8a.afm",
-      "name": "Courier",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pplr8a.afm",
-      "name": "Palatino",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "roman",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/phvb8an.afm",
-      "name": "Helvetica",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "condensed",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Times-BoldItalic.afm",
-      "name": "Times",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Times-Italic.afm",
-      "name": "Times",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Helvetica-Bold.afm",
-      "name": "Helvetica",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Courier.afm",
-      "name": "Courier",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Helvetica.afm",
-      "name": "Helvetica",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/pplri8a.afm",
-      "name": "Palatino",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/afm/putr8a.afm",
-      "name": "Utopia",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "regular",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/pdfcorefonts/Symbol.afm",
-      "name": "Symbol",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+=======
       "fname": "fonts/afm/phvr8an.afm",
       "name": "Helvetica",
       "style": "normal",
       "variant": "normal",
       "weight": "medium",
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/afm/putr8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
       "fname": "fonts/afm/pagko8a.afm",
       "name": "ITC Avant Garde Gothic",
       "style": "italic",
       "variant": "normal",
       "weight": "book",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/pdfcorefonts/Courier.afm",
+      "name": "Courier",
+      "style": "normal",
+=======
       "fname": "fonts/afm/pncri8a.afm",
       "name": "New Century Schoolbook",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "medium",
       "stretch": "normal",
@@ -578,18 +1014,32 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/afm/phvb8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+=======
       "fname": "fonts/afm/putbi8a.afm",
       "name": "Utopia",
       "style": "italic",
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Italic.afm",
+      "name": "Nimbus Sans",
+=======
       "fname": "fonts/afm/putri8a.afm",
       "name": "Utopia",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
@@ -598,28 +1048,49 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-LightItalic.afm",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+=======
       "fname": "fonts/pdfcorefonts/Courier-BoldOblique.afm",
       "name": "Courier",
       "style": "italic",
       "variant": "normal",
       "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-BoldItalic.afm",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Italic.afm",
       "name": "Nimbus Roman",
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-BoldItalic.afm",
+      "name": "Nimbus Roman",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchbi8a.afm",
       "name": "Bitstream Charter",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": "bold",
@@ -628,39 +1099,69 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Bold.afm",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/URWGothic-Demi.afm",
       "name": "URW Gothic",
       "style": "normal",
       "variant": "normal",
       "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrr8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/D050000L.afm",
       "name": "D050000L",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-DemiItalic.afm",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putri8a.afm",
       "name": "Utopia",
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Bold.afm",
       "name": "Nimbus Sans",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
@@ -668,9 +1169,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Bold.afm",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-BoldItalic.afm",
       "name": "Nimbus Mono PS",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
@@ -678,59 +1185,106 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-Light.afm",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-BoldItalic.afm",
       "name": "Nimbus Roman",
       "style": "italic",
       "variant": "normal",
       "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Bold.afm",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putr8a.afm",
       "name": "Utopia",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-BoldItalic.afm",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Regular.afm",
       "name": "Nimbus Sans Narrow",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/Z003-MediumItalic.afm",
+      "name": "Z003",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-LightItalic.afm",
       "name": "URW Bookman",
       "style": "italic",
       "variant": "normal",
       "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-Roman.afm",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-Light.afm",
       "name": "URW Bookman",
       "style": "normal",
       "variant": "normal",
       "weight": "light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putbi8a.afm",
+      "name": "Utopia",
+      "style": "italic",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Bold.afm",
       "name": "Nimbus Roman",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
@@ -738,36 +1292,62 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-BoldItalic.afm",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Regular.afm",
       "name": "Nimbus Mono PS",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/C059-BdIta.afm",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchri8a.afm",
       "name": "Bitstream Charter",
       "style": "italic",
       "variant": "normal",
       "weight": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchbi8a.afm",
+      "name": "Bitstream Charter",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Italic.afm",
       "name": "Nimbus Sans",
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Bold.afm",
       "name": "Nimbus Sans Narrow",
       "style": "normal",
@@ -778,6 +1358,7 @@
       "__class__": "FontEntry"
     },
     {
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "fname": "/usr/share/fonts/type1/urw-base35/C059-Bold.afm",
       "name": "C059",
       "style": "normal",
@@ -788,31 +1369,56 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-BoldOblique.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/P052-Bold.afm",
       "name": "P052",
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrro8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-Demi.afm",
       "name": "URW Bookman",
       "style": "normal",
       "variant": "normal",
       "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Italic.afm",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrb8a.afm",
       "name": "Courier",
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -828,49 +1434,88 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchr8a.afm",
+      "name": "Bitstream Charter",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "normal",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putb8a.afm",
       "name": "Utopia",
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Oblique.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrro8a.afm",
       "name": "Courier",
       "style": "italic",
       "variant": "normal",
       "weight": "medium",
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchri8a.afm",
+      "name": "Bitstream Charter",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-DemiItalic.afm",
       "name": "URW Bookman",
       "style": "italic",
       "variant": "normal",
       "weight": "demi",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWGothic-Book.afm",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "book",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Regular.afm",
       "name": "Nimbus Sans",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Italic.afm",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/StandardSymbolsPS.afm",
       "name": "Standard Symbols PS",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "regular",
       "stretch": "normal",
@@ -878,19 +1523,33 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWGothic-Demi.afm",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Regular.afm",
       "name": "Nimbus Roman",
       "style": "normal",
       "variant": "normal",
       "weight": "regular",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putr8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/P052-Italic.afm",
       "name": "P052",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "regular",
       "stretch": "normal",
@@ -898,9 +1557,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Bold.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-BoldOblique.afm",
       "name": "Nimbus Sans Narrow",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": "bold",
       "stretch": "condensed",
@@ -908,6 +1573,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/D050000L.afm",
+      "name": "D050000L",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/C059-BdIta.afm",
       "name": "C059",
       "style": "italic",
@@ -923,23 +1595,38 @@
       "style": "normal",
       "variant": "normal",
       "weight": "book",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Regular.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchb8a.afm",
       "name": "Bitstream Charter",
       "style": "normal",
       "variant": "normal",
       "weight": "bold",
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putri8a.afm",
+      "name": "Utopia",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Italic.afm",
       "name": "Nimbus Mono PS",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
@@ -948,131 +1635,229 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putb8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Oblique.afm",
       "name": "Nimbus Sans Narrow",
       "style": "italic",
       "variant": "normal",
       "weight": "regular",
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrr8a.afm",
-      "name": "Courier",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrbo8a.afm",
-      "name": "Courier",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchr8a.afm",
-      "name": "Bitstream Charter",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "normal",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-BoldItalic.afm",
-      "name": "Nimbus Sans",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Bold.afm",
-      "name": "Nimbus Mono PS",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/C059-Italic.afm",
-      "name": "C059",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "roman",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/P052-BoldItalic.afm",
-      "name": "P052",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "bold",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/Z003-MediumItalic.afm",
-      "name": "Z003",
-      "style": "italic",
-      "variant": "normal",
-      "weight": "medium",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/C059-Roman.afm",
-      "name": "C059",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "roman",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/type1/urw-base35/P052-Roman.afm",
-      "name": "P052",
-      "style": "normal",
-      "variant": "normal",
-      "weight": "roman",
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "/usr/share/fonts/type1/urw-base35/URWGothic-BookOblique.afm",
       "name": "URW Gothic",
       "style": "italic",
       "variant": "normal",
       "weight": "book",
+=======
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrr8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/C059-Italic.afm",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "roman",
+=======
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Regular.afm",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchr8a.afm",
+      "name": "Bitstream Charter",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/pcrb8a.afm",
+      "name": "Courier",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-BoldItalic.afm",
+      "name": "Nimbus Sans",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/bchb8a.afm",
+      "name": "Bitstream Charter",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Bold.afm",
+      "name": "Nimbus Mono PS",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/C059-Roman.afm",
+      "name": "C059",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/C059-Italic.afm",
+      "name": "C059",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Regular.afm",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-BoldItalic.afm",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-Bold.afm",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/Z003-MediumItalic.afm",
+      "name": "Z003",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/NimbusSans-Regular.afm",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/C059-Roman.afm",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/StandardSymbolsPS.afm",
+      "name": "Standard Symbols PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-Roman.afm",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/P052-Italic.afm",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+=======
+      "fname": "/usr/share/fonts/type1/urw-base35/URWGothic-BookOblique.afm",
+      "name": "URW Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "book",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/type1/urw-base35/URWBookman-Demi.afm",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+=======
       "fname": "/usr/share/fonts/type1/texlive-fonts-recommended/putbi8a.afm",
       "name": "Utopia",
       "style": "italic",
       "variant": "normal",
       "weight": "bold",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -1080,79 +1865,137 @@
   ],
   "ttflist": [
     {
-      "fname": "fonts/ttf/STIXSizThreeSymReg.ttf",
-      "name": "STIXSizeThreeSym",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/DejaVuSans-Bold.ttf",
-      "name": "DejaVu Sans",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/STIXSizFourSymBol.ttf",
-      "name": "STIXSizeFourSym",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/STIXSizFourSymReg.ttf",
-      "name": "STIXSizeFourSym",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/DejaVuSerif-BoldItalic.ttf",
-      "name": "DejaVu Serif",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "fonts/ttf/STIXSizOneSymBol.ttf",
       "name": "STIXSizeOneSym",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+=======
+      "fname": "fonts/ttf/STIXSizThreeSymReg.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmmi10.ttf",
+      "name": "cmmi10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "fonts/ttf/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSans-BoldOblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+=======
+      "fname": "fonts/ttf/STIXSizFourSymBol.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSansMono-Oblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+=======
+      "fname": "fonts/ttf/STIXSizFourSymReg.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXGeneral.ttf",
+      "name": "STIXGeneral",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "fonts/ttf/DejaVuSerif-BoldItalic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSans-Oblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "fonts/ttf/STIXSizOneSymBol.ttf",
+      "name": "STIXSizeOneSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSansMono.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "fonts/ttf/STIXNonUniBol.ttf",
       "name": "STIXNonUnicode",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSerif-Italic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+=======
       "fname": "fonts/ttf/cmex10.ttf",
       "name": "cmex10",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1160,18 +2003,31 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmtt10.ttf",
+      "name": "cmtt10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "fonts/ttf/STIXSizTwoSymBol.ttf",
       "name": "STIXSizeTwoSym",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizOneSymReg.ttf",
+      "name": "STIXSizeOneSym",
+=======
       "fname": "fonts/ttf/STIXSizFiveSymReg.ttf",
       "name": "STIXSizeFiveSym",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1180,9 +2036,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSerif-Bold.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+=======
       "fname": "fonts/ttf/DejaVuSans-BoldOblique.ttf",
       "name": "DejaVu Sans",
       "style": "oblique",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -1190,29 +2052,51 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSerif-BoldItalic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "fonts/ttf/STIXSizTwoSymReg.ttf",
       "name": "STIXSizeTwoSym",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "fonts/ttf/DejaVuSansMono-Oblique.ttf",
       "name": "DejaVu Sans Mono",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSansDisplay.ttf",
+      "name": "DejaVu Sans Display",
+      "style": "normal",
+=======
       "fname": "fonts/ttf/STIXNonUniIta.ttf",
       "name": "STIXNonUnicode",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1220,9 +2104,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXNonUni.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+=======
       "fname": "fonts/ttf/DejaVuSerif-Italic.ttf",
       "name": "DejaVu Serif",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1230,9 +2120,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXNonUniBolIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+=======
       "fname": "fonts/ttf/DejaVuSerif-Bold.ttf",
       "name": "DejaVu Serif",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -1240,8 +2136,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizFourSymBol.ttf",
+      "name": "STIXSizeFourSym",
+=======
       "fname": "fonts/ttf/STIXGeneralBol.ttf",
       "name": "STIXGeneral",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 700,
@@ -1260,18 +2161,31 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizThreeSymBol.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "fonts/ttf/cmmi10.ttf",
       "name": "cmmi10",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizThreeSymReg.ttf",
+      "name": "STIXSizeThreeSym",
+=======
       "fname": "fonts/ttf/DejaVuSerifDisplay.ttf",
       "name": "DejaVu Serif Display",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1280,18 +2194,31 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizTwoSymBol.ttf",
+      "name": "STIXSizeTwoSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "fonts/ttf/STIXSizOneSymReg.ttf",
       "name": "STIXSizeOneSym",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmr10.ttf",
+      "name": "cmr10",
+=======
       "fname": "fonts/ttf/DejaVuSansMono.ttf",
       "name": "DejaVu Sans Mono",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1310,86 +2237,7 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/ttf/STIXNonUniBolIta.ttf",
-      "name": "STIXNonUnicode",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/STIXGeneral.ttf",
-      "name": "STIXGeneral",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/STIXSizThreeSymBol.ttf",
-      "name": "STIXSizeThreeSym",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/cmss10.ttf",
-      "name": "cmss10",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/DejaVuSans.ttf",
-      "name": "DejaVu Sans",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/DejaVuSerif.ttf",
-      "name": "DejaVu Serif",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/STIXNonUni.ttf",
-      "name": "STIXNonUnicode",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "fonts/ttf/cmb10.ttf",
-      "name": "cmb10",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "fonts/ttf/STIXGeneralItalic.ttf",
       "name": "STIXGeneral",
       "style": "italic",
@@ -1400,8 +2248,30 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/ttf/cmsy10.ttf",
-      "name": "cmsy10",
+      "fname": "fonts/ttf/STIXSizFourSymReg.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "fonts/ttf/STIXNonUniBolIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmss10.ttf",
+      "name": "cmss10",
+=======
+      "fname": "fonts/ttf/STIXGeneral.ttf",
+      "name": "STIXGeneral",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1410,8 +2280,13 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "fonts/ttf/DejaVuSansMono-Bold.ttf",
-      "name": "DejaVu Sans Mono",
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+=======
+      "fname": "fonts/ttf/STIXSizThreeSymBol.ttf",
+      "name": "STIXSizeThreeSym",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 700,
@@ -1420,8 +2295,166 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerifDisplay.ttf",
+      "name": "DejaVu Serif Display",
+=======
+      "fname": "fonts/ttf/cmss10.ttf",
+      "name": "cmss10",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmb10.ttf",
+      "name": "cmb10",
+=======
+      "fname": "fonts/ttf/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXNonUniIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmsy10.ttf",
+      "name": "cmsy10",
+=======
+      "fname": "fonts/ttf/DejaVuSerif.ttf",
+      "name": "DejaVu Serif",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXNonUniBol.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFiveSymReg.ttf",
+      "name": "STIXSizeFiveSym",
+      "style": "normal",
+      "variant": "normal",
+=======
+      "fname": "fonts/ttf/STIXNonUni.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXSizTwoSymReg.ttf",
+      "name": "STIXSizeTwoSym",
+=======
+      "fname": "fonts/ttf/cmb10.ttf",
+      "name": "cmb10",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/cmex10.ttf",
+      "name": "cmex10",
+      "style": "normal",
+=======
+      "fname": "fonts/ttf/STIXGeneralItalic.ttf",
+      "name": "STIXGeneral",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/DejaVuSerif.ttf",
+      "name": "DejaVu Serif",
+=======
+      "fname": "fonts/ttf/cmsy10.ttf",
+      "name": "cmsy10",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "fonts/ttf/STIXGeneralBol.ttf",
+      "name": "STIXGeneral",
+=======
+      "fname": "fonts/ttf/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
+      "name": "Liberation Mono",
+=======
       "fname": "fonts/ttf/cmr10.ttf",
       "name": "cmr10",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1430,8 +2463,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf",
+      "name": "Latin Modern Sans",
+=======
       "fname": "fonts/ttf/DejaVuSansDisplay.ttf",
       "name": "DejaVu Sans Display",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1440,9 +2478,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf",
+      "name": "URW Gothic",
+      "style": "oblique",
+=======
       "fname": "fonts/ttf/cmtt10.ttf",
       "name": "cmtt10",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1450,19 +2494,33 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-boldoblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "fonts/ttf/DejaVuSans-Oblique.ttf",
       "name": "DejaVu Sans",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant8-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf",
       "name": "Liberation Sans",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1470,9 +2528,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
+      "name": "Liberation Serif",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-italic.otf",
       "name": "Latin Modern Mono",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -1480,22 +2544,39 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanunsl10-regular.otf",
+      "name": "Latin Modern Roman Unslanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-bold.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant12-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf",
       "name": "Liberation Sans Narrow",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
@@ -1510,188 +2591,175 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf",
       "name": "Liberation Sans Narrow",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bolditalic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans17-regular.otf",
       "name": "Latin Modern Sans",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf",
+      "name": "Liberation Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf",
       "name": "Nimbus Sans",
       "style": "italic",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-oblique.otf",
       "name": "Latin Modern Sans",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf",
-      "name": "URW Bookman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 300,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf",
-      "name": "Nimbus Sans",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-boldoblique.otf",
-      "name": "Latin Modern Mono Light",
-      "style": "oblique",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf",
-      "name": "URW Gothic",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 600,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans8-oblique.otf",
-      "name": "Latin Modern Sans",
-      "style": "oblique",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans9-regular.otf",
-      "name": "Latin Modern Sans",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf",
-      "name": "Latin Modern Roman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-regular.otf",
-      "name": "Latin Modern Roman Caps",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
-      "name": "Liberation Sans",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/D050000L.otf",
-      "name": "D050000L",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf",
-      "name": "Nimbus Mono PS",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf",
-      "name": "Latin Modern Sans",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf",
-      "name": "Nimbus Mono PS",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf",
       "name": "Latin Modern Mono",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf",
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf",
       "name": "Latin Modern Roman",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf",
+      "name": "Nimbus Sans",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-boldoblique.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-oblique.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/C059-Bold.otf",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans8-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman5-regular.otf",
+      "name": "Latin Modern Roman",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans9-regular.otf",
+      "name": "Latin Modern Sans",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1700,28 +2768,194 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf",
+      "name": "Nimbus Roman",
+      "style": "italic",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf",
+      "name": "Latin Modern Roman",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-regular.otf",
+      "name": "Latin Modern Roman Caps",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf",
+      "name": "Nimbus Roman",
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+      "name": "Liberation Sans",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant9-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/D050000L.otf",
+      "name": "D050000L",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-bold.otf",
+      "name": "Latin Modern Roman Slanted",
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf",
+      "name": "Nimbus Mono PS",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-regular.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans9-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
       "name": "Nimbus Sans Narrow",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf",
       "name": "URW Bookman",
       "style": "normal",
       "variant": "normal",
       "weight": 600,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-regular.otf",
+      "name": "Latin Modern Mono Light",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonocaps10-regular.otf",
       "name": "Latin Modern Mono Caps",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -1730,28 +2964,51 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-BoldItalic.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf",
       "name": "Liberation Serif",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoltcond10-regular.otf",
+      "name": "Latin Modern Mono Light Cond",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoslant10-regular.otf",
       "name": "Latin Modern Mono Slanted",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf",
+      "name": "C059",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf",
       "name": "Nimbus Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": 700,
@@ -1760,9 +3017,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf",
+      "name": "URW Bookman",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandemi10-oblique.otf",
       "name": "Latin Modern Roman Demi",
       "style": "oblique",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 600,
       "stretch": "normal",
@@ -1770,26 +3033,48 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-oblique.otf",
       "name": "Latin Modern Roman Caps",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandemi10-oblique.otf",
+      "name": "Latin Modern Roman Demi",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 600,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoprop10-oblique.otf",
       "name": "Latin Modern Mono Prop",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-oblique.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "oblique",
+      "variant": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-boldoblique.otf",
       "name": "Latin Modern Sans",
       "style": "oblique",
@@ -1804,194 +3089,73 @@
       "name": "Latin Modern Roman Dunhill",
       "style": "normal",
       "variant": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "weight": 400,
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-bold.otf",
       "name": "Latin Modern Mono Light",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-bold.otf",
-      "name": "Latin Modern Roman Slanted",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf",
-      "name": "Liberation Serif",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
-      "name": "Liberation Mono",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
-      "name": "Liberation Serif",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-regular.otf",
-      "name": "Latin Modern Mono Prop Light",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf",
-      "name": "Standard Symbols PS",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-regular.otf",
-      "name": "Latin Modern Sans Quotation",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf",
-      "name": "Nimbus Roman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf",
-      "name": "Latin Modern Mono",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-boldoblique.otf",
-      "name": "Latin Modern Mono Prop Light",
-      "style": "oblique",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-regular.otf",
-      "name": "Latin Modern Roman Slanted",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf",
-      "name": "Liberation Serif",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-oblique.otf",
-      "name": "Latin Modern Sans Quotation",
-      "style": "oblique",
-      "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf",
-      "name": "Liberation Mono",
-      "style": "italic",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman6-bold.otf",
-      "name": "Latin Modern Roman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf",
-      "name": "Latin Modern Roman",
-      "style": "normal",
-      "variant": "normal",
-      "weight": 700,
-      "stretch": "normal",
-      "size": "scalable",
-      "__class__": "FontEntry"
-    },
-    {
+<<<<<<< HEAD
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonocaps10-oblique.otf",
       "name": "Latin Modern Mono Caps",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-bold.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf",
-      "name": "Latin Modern Mono",
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf",
+      "name": "Liberation Serif",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf",
+      "name": "Nimbus Mono PS",
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
+      "name": "Liberation Mono",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2000,29 +3164,306 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
+      "name": "Liberation Serif",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman6-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-regular.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf",
+      "name": "Z003",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf",
+      "name": "Standard Symbols PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf",
+      "name": "URW Gothic",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-regular.otf",
+      "name": "Latin Modern Sans Quotation",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/C059-Roman.otf",
+      "name": "C059",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf",
+      "name": "Latin Modern Mono",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonocaps10-regular.otf",
+      "name": "Latin Modern Mono Caps",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-boldoblique.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman5-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf",
+      "name": "Liberation Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf",
+      "name": "Standard Symbols PS",
+      "style": "normal",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-oblique.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "oblique",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+      "name": "Liberation Sans",
+      "style": "normal",
+=======
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf",
+      "name": "Liberation Mono",
+      "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+      "name": "Liberation Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman6-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoslant10-regular.otf",
+      "name": "Latin Modern Mono Slanted",
+      "style": "normal",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonocaps10-oblique.otf",
+      "name": "Latin Modern Mono Caps",
+      "style": "oblique",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf",
+      "name": "Liberation Sans",
+      "style": "italic",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman5-regular.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf",
       "name": "Nimbus Sans",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans9-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans12-oblique.otf",
       "name": "Latin Modern Sans",
       "style": "oblique",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2030,9 +3471,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf",
       "name": "URW Gothic",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2040,39 +3487,70 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf",
       "name": "Latin Modern Sans",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf",
       "name": "Nimbus Roman",
       "style": "italic",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-bold.otf",
       "name": "Latin Modern Sans Quotation",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/C059-Italic.otf",
+      "name": "C059",
+      "style": "italic",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant8-regular.otf",
       "name": "Latin Modern Roman Slanted",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2080,9 +3558,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans12-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant17-regular.otf",
       "name": "Latin Modern Roman Slanted",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2090,17 +3574,29 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-oblique.otf",
       "name": "Latin Modern Mono Prop Light",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "name": "Latin Modern Mono",
       "style": "normal",
       "variant": "normal",
@@ -2110,9 +3606,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf",
+      "name": "Liberation Mono",
+      "style": "italic",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/C059-Bold.otf",
       "name": "C059",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -2120,6 +3622,11 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf",
+      "name": "URW Gothic",
+      "style": "oblique",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf",
       "name": "Z003",
       "style": "italic",
@@ -2133,6 +3640,7 @@
       "fname": "/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf",
       "name": "URW Bookman",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 600,
       "stretch": "normal",
@@ -2140,8 +3648,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-oblique.otf",
+      "name": "Latin Modern Mono Light",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandunh10-oblique.otf",
       "name": "Latin Modern Roman Dunhill",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
@@ -2150,9 +3663,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/P052-Roman.otf",
+      "name": "P052",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-italic.otf",
       "name": "Latin Modern Roman",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2160,18 +3679,31 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/P052-Italic.otf",
       "name": "P052",
       "style": "italic",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-bold.otf",
+      "name": "Latin Modern Sans Quotation",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman5-bold.otf",
       "name": "Latin Modern Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 700,
@@ -2180,21 +3712,38 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoltcond10-oblique.otf",
+      "name": "Latin Modern Mono Light Cond",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/P052-Roman.otf",
       "name": "P052",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman9-bold.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -2210,49 +3759,88 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-regular.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf",
       "name": "Liberation Mono",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-boldoblique.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf",
       "name": "Nimbus Mono PS",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-bold.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansdemicond10-oblique.otf",
       "name": "Latin Modern Sans Demi Cond",
       "style": "oblique",
       "variant": "normal",
       "weight": 600,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf",
       "name": "URW Gothic",
       "style": "oblique",
       "variant": "normal",
       "weight": 600,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanunsl10-regular.otf",
       "name": "Latin Modern Roman Unslanted",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2260,11 +3848,19 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandemi10-regular.otf",
+      "name": "Latin Modern Roman Demi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
       "name": "Liberation Sans",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -2280,6 +3876,10 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandunh10-regular.otf",
+      "name": "Latin Modern Roman Dunhill",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoltcond10-oblique.otf",
       "name": "Latin Modern Mono Light Cond",
       "style": "oblique",
@@ -2302,6 +3902,7 @@
     {
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf",
       "name": "Latin Modern Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2310,29 +3911,52 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf",
+      "name": "Liberation Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-boldoblique.otf",
       "name": "Latin Modern Sans Quotation",
       "style": "oblique",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansdemicond10-regular.otf",
+      "name": "Latin Modern Sans Demi Cond",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "condensed",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bolditalic.otf",
       "name": "Latin Modern Roman",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -2340,29 +3964,51 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf",
+      "name": "Liberation Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant9-regular.otf",
       "name": "Latin Modern Roman Slanted",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/P052-Bold.otf",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf",
       "name": "Latin Modern Sans",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf",
+      "name": "Nimbus Sans",
+      "style": "normal",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-italic.otf",
       "name": "Latin Modern Roman",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2370,17 +4016,29 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans8-oblique.otf",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans17-oblique.otf",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "name": "Latin Modern Sans",
       "style": "oblique",
       "variant": "normal",
@@ -2390,8 +4048,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandunh10-oblique.otf",
+      "name": "Latin Modern Roman Dunhill",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans9-oblique.otf",
       "name": "Latin Modern Sans",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
@@ -2400,16 +4063,28 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-bold.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf",
       "name": "Latin Modern Roman",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf",
+      "name": "Nimbus Mono PS",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf",
       "name": "Latin Modern Roman",
       "style": "italic",
@@ -2422,6 +4097,7 @@
     {
       "fname": "/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf",
       "name": "C059",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": 700,
@@ -2430,9 +4106,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf",
       "name": "Liberation Mono",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2440,8 +4122,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/D050000L.otf",
+      "name": "D050000L",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoprop10-regular.otf",
       "name": "Latin Modern Mono Prop",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2450,9 +4137,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf",
       "name": "P052",
       "style": "italic",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -2460,8 +4153,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf",
+      "name": "Latin Modern Roman",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-regular.otf",
       "name": "Latin Modern Mono Light",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2470,28 +4168,51 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf",
       "name": "Nimbus Sans Narrow",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoprop10-regular.otf",
+      "name": "Latin Modern Mono Prop",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
       "name": "Liberation Sans Narrow",
       "style": "italic",
       "variant": "normal",
       "weight": 400,
       "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf",
+      "name": "Nimbus Sans",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-bold.otf",
       "name": "Latin Modern Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 700,
@@ -2500,6 +4221,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman9-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansdemicond10-regular.otf",
       "name": "Latin Modern Sans Demi Cond",
       "style": "normal",
@@ -2515,16 +4243,25 @@
       "style": "italic",
       "variant": "normal",
       "weight": 300,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf",
       "name": "Liberation Sans",
       "style": "italic",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
@@ -2540,8 +4277,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-italic.otf",
+      "name": "Latin Modern Mono",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/C059-Italic.otf",
       "name": "C059",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": 400,
@@ -2550,9 +4292,15 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans17-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf",
       "name": "Nimbus Sans",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2560,16 +4308,28 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-boldoblique.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-oblique.otf",
       "name": "Latin Modern Mono Light",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant10-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromandemi10-regular.otf",
       "name": "Latin Modern Roman Demi",
       "style": "normal",
@@ -2582,6 +4342,7 @@
     {
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf",
       "name": "Latin Modern Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2600,28 +4361,49 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf",
+      "name": "Liberation Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf",
       "name": "URW Gothic",
       "style": "oblique",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant12-regular.otf",
       "name": "Latin Modern Roman Slanted",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf",
+      "name": "Liberation Serif",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf",
       "name": "Nimbus Mono PS",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "italic",
       "variant": "normal",
       "weight": 700,
@@ -2630,8 +4412,13 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-regular.otf",
+      "name": "Latin Modern Roman Caps",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf",
       "name": "Nimbus Roman",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2640,7 +4427,11 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans17-regular.otf",
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "name": "Latin Modern Sans",
       "style": "normal",
       "variant": "normal",
@@ -2650,19 +4441,20 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf",
-      "name": "Latin Modern Roman",
-      "style": "normal",
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansdemicond10-oblique.otf",
+      "name": "Latin Modern Sans Demi Cond",
+      "style": "oblique",
       "variant": "normal",
-      "weight": 400,
-      "stretch": "normal",
+      "weight": 600,
+      "stretch": "condensed",
       "size": "scalable",
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/fonts/opentype/urw-base35/P052-Bold.otf",
-      "name": "P052",
-      "style": "normal",
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmsansquot8-boldoblique.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "oblique",
       "variant": "normal",
       "weight": 700,
       "stretch": "normal",
@@ -2670,8 +4462,8 @@
       "__class__": "FontEntry"
     },
     {
-      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoltcond10-regular.otf",
-      "name": "Latin Modern Mono Light Cond",
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf",
+      "name": "Liberation Sans Narrow",
       "style": "normal",
       "variant": "normal",
       "weight": 400,
@@ -2680,9 +4472,67 @@
       "__class__": "FontEntry"
     },
     {
+      "fname": "/usr/share/fonts/opentype/urw-base35/P052-Italic.otf",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf",
+      "name": "Liberation Sans",
+      "style": "italic",
+=======
+      "fname": "/usr/share/fonts/opentype/urw-base35/P052-Bold.otf",
+      "name": "P052",
+      "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoprop10-oblique.otf",
+      "name": "Latin Modern Mono Prop",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+=======
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoltcond10-regular.otf",
+      "name": "Latin Modern Mono Light Cond",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-oblique.otf",
+      "name": "Latin Modern Roman Caps",
+      "style": "oblique",
+=======
       "fname": "/usr/share/fonts/opentype/urw-base35/C059-Roman.otf",
       "name": "C059",
       "style": "normal",
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "variant": "normal",
       "weight": 400,
       "stretch": "normal",
@@ -2690,11 +4540,19 @@
       "__class__": "FontEntry"
     },
     {
+<<<<<<< HEAD
+      "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmromanslant17-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+=======
       "fname": "/usr/share/texmf/fonts/opentype/public/lm/lmmonoproplt10-bold.otf",
       "name": "Latin Modern Mono Prop Light",
       "style": "normal",
       "variant": "normal",
       "weight": 700,
+>>>>>>> fddbc395626dc862aaf36315abb1a65371e57335
       "stretch": "normal",
       "size": "scalable",
       "__class__": "FontEntry"
