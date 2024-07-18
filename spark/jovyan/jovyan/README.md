@@ -1,58 +1,103 @@
-# UK Rail Data Analysis
-> A data analysis/ engineering capstone project.
+# Final Project
 
-# Project Overview
+## Overview
+Our final project consists of a multi-container application that runs a Kafka stream processing pipeline using Docker. The solution is split into five main components, each running in its own Docker container:
 
-In this application, we built a pipeline streaming data through Apache Kafka from the UK National Rail system, conducted exploratory data analysis, and created an interactive Power BI dashboard to visualize our findings. We are looking to describe the UK National Rail delays to understand where, when, and why these delays are happening.
+1. **Kafka Zookeeper**: A service necessary for running the Kafka broker. It helps in maintaining the configuration information and provides distributed synchronization.
+2. **Kafka Broker**: The heart of the Kafka system that maintains the published data. Each Kafka broker can handle terabytes of messages without performance impact.
+3. **Kafka Producer (Python)**: This application pulls data from the National Rail APIs and publishes it to Kafka. It's designed to run indefinitely, continually pulling and publishing data.
+4. **Kafka Consumer (Spark)**: A Spark application that consumes data from Kafka, processes it and writes the result to a PostgreSQL database.
+5. **PostgreSQL Database (db)**: Stores the processed data from the Spark consumer for later analysis.
 
-# Installation and Setup
-## Codes and Resources Used
-- **Editor Used:**  `Jupyter Notebook`
-- **Python Version:** `python 3.8 - 3.9`
-## Python Packages Used
-Dependencies and versions used:
+The `docker-compose.yaml` file in the root directory defines the services that make up the application so they can be run together in an isolated environment. It also sets up the necessary environment variables, port mappings, and volume bindings.
 
-* `numpy==1.24.2`: Compatible with Python 3.8 to 3.11.
-* `pandas==1.5.3`: Compatible with Python 3.8 to 3.10.
-* `py4j==0.10.9.5`: Compatible with Python 3.6 to 3.9.
-* `pyspark==3.3.2`: Compatible with Python 3.8 to 3.10.
-* `sqlalchemy`: Generally compatible with Python 3.6 and newer.
-* `psycopg2-binary`: Compatible with Python 3.6 and newer.
-* `confluent-kafka==2.0.2`: Compatible with Python 3.6 to 3.9.
-* `docopt==0.6.2`: Compatible with Python 2.6 to 3.9.
-* `lxml==4.9.2`: Compatible with Python 3.5 and newer.
-* `python-dateutil==2.8.2`: Compatible with Python 2.7, and 3.5 and newer.
-* `pytz==2022.7.1`: Compatible with Python 3.5 and newer.
-* `PyXB==1.2.6`: Compatible with Python 2.7, and 3.4 and newer.
-* `six==1.16.0`: Compatible with Python 2.7 and newer.
-* `stomp.py==8.1.0`: Compatible with Python 3.5 and newer.
-* `websocket-client==1.5.1`: Compatible with Python 3.6 and newer.
+## Steps
 
-# Data
-## Source Data
-For this project, we received data from the national rail data API linked below. This data describes train live train arrival and departure times, routes, stations, and more.
-[UK National Rail Data API](https://opendata.nationalrail.co.uk/registration)
+Follow these steps to build and run the project.
 
-## Data Acquisition
-Follow `readme.md` in the root directory to properly set up AWS and Apache Kafka for this project.
+### 1. Environmental Variables Setup - National Rail
 
-## Data Preprocessing
-The acquired data was cleaned by removing duplicate data points, columns with completely null values, outliers, as well as rows with a significant amount of null values. The initial dataset after approximately one week of streaming data on and off ~ 130,000 rows. Ended with ~ 113,000 rows after cleaning. (approximately 12.6% of our dataset)
+You need to define environment variables for the Python Kafka producer and the PostgreSQL database. These variables can be set in a `.env` file located in the same directory as the `docker-compose.yaml` file. Here's an example of what the `.env` file could look like:
 
-# Results and evaluation
-Provide an overview of the results of your project, including any relevant metrics and graphs. Include explanations of any evaluation methodologies and how they were used to assess the quality of the model. You can also make it appealing by including any pictures of your analysis or visualizations.
-**When are Trains Most Frequently Delayed?**
+```bash
+# National Rail API and Kafka variables
+USERNAME=your-username
+PASSWORD=your-password
+HOSTNAME=your-hostname
+HOSTPORT=61613
+TOPIC=/topic/darwin.pushport-v16
+KAFKA_TOPIC=darwin
+HEARTBEAT_INTERVAL_MS=15000
+RECONNECT_DELAY_SECS=15
+```
+Replace `your-username`, `your-password`, `your-hostname`, `your-topic`, and `your-kafka-topic` with the actual values. This file should not be committed to your source control system.
 
-# Future work
-Some future additions that could be made to this project include:
-* Gathering more data over a longer period to look at monthly, weekly, or even yearly trends.
-* Pairing the UK rail data with another data source, such as a weather API, to gather additional insight into outside factors.
-* Create a more effective and accurate model to predict delayed trains or the length of the delay.
+### 2. Database Initialization & Configuration
 
-# Acknowledgments/References
-## Authors
+The output of this pipeline writes to your PostgreSQL database (hosted on AWS). You need to tell
+the spark process how to connect to your database.
 
-* Riley Sample:
-  - rcs622.rcs@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/rileysample/)
-* Brianna Browning
+1. Update your `.env` file. Add the following properties to the bottom. If you've followed the guide for setting up PostgreSQL on AWS, you should have these values.
+
+    ```bash
+    # PostgreSQL variables
+    POSTGRES_USERNAME=your-aws-db-username
+    POSTGRES_PASSWORD=your-aws-db-password
+    POSTGRES_HOSTNAME=your-aws-db-hostname
+    POSTGRES_PORT=your-aws-db-port
+    POSTGRES_DBNAME=your-aws-db-name
+    ```
+
+    Pro tip: If you're attempting to connect to a local database instead of AWS, use `host.docker.internal` for HOSTNAME, not `localhost`. `localhost` would look for Postgres *inside* of docker.
+
+2. You'll need to create a `darwin` table in your RDS instance. Copy, paste and run the `init.sql` script (in the same folder as this readme) in order to create the table with the correct columns.
+
+### 3. Docker Images Building
+
+For each component, enter the directory and build the Docker image using the `docker build` command as shown below. Make sure to build the images in the following order and with the same names:
+
+1. Zookeeper: `zookeeper:latest`
+2. Broker: `broker:latest`
+3. Producer `kafkaproducer:latest`
+4. Consumer: `spark:latest`
+
+```bash
+$ cd zookeeper
+$ docker build . -t zookeeper:latest
+```
+
+### 4. Running the Containers
+
+In the root directory where the `docker-compose.yaml` file is located, bring up the containers by running:
+
+```bash
+$ docker compose up
+```
+
+### 5. Accessing JupyterLab
+
+From the Docker Dashboard, view the `spark` container logs and find the JupyterLab link along with the token:
+
+You would want to grab the token from this log message. 
+![spark jupyter lab token](token.png)
+
+```
+2023-07-27 12:35:08 [I 2023-07-27 16:35:08.228 ServerApp] Jupyter Server 2.7.0 is running at:
+2023-07-27 12:35:08 [I 2023-07-27 16:35:08.229 ServerApp] http://spark:8888/lab?token=81174b904d9ef8efea99129a34a744a747066ccf01a65172
+2023-07-27 12:35:08 [I 2023-07-27 16:35:08.229 ServerApp]     http://127.0.0.1:8888/lab?token=81174b904d9ef8efea99129a34a744a747066ccf
+```
+
+Using this token, go to the following link in your browser http://localhost:10000/lab?token=your-token
+
+### 6. Running the Applications
+
+Within the JupyterLab environment, there are two main Python files that need to be run:
+
+* `spark_consumer.py` contains the code to run the Spark consumer that reads data from the Kafka topic.
+* `clean_data.py` contains the code to process the consumed data, transform it into a DataFrame, and write the result to a database. 
+
+Start running both of these files by opening a separate terminal for each in JupyterLab and running `python .py`. Each file will keep running indefinitely as they work together to consume messages from Kafka and write them to your database.
+
+NOTE: In order to troubleshoot the database connection, here are two tips.
+1. The output and errors from `clean_data.py` can be found in `etl.log`.
+2. Use this command from a terminal in JupyterLab to confirm what database URL is being used: `echo $DATABASE_URL`
