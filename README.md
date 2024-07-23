@@ -1,8 +1,11 @@
 # UK Rail Data Analysis
 # Are the UK train, station, and regional operators equipped to predict delays and cancellations?
-> A data engineering & analysis capstone project.
+> A comprehensive data engineering & analysis report using Docker, Kafka, Apache Spark, SQL, AWS, Python, & Power BI
+
 **Authors:** Brianna Browning & Riley Sample
+
 **Instructor:** James Meredith
+
 **Institution:** Grand Circus
 
 # Project Overview
@@ -61,8 +64,11 @@ The acquired data was cleaned by removing duplicate data points, columns with co
 # Results and evaluations
 To view the complete notebook, please click here:
 
+
 ## When are Trains Most Frequently Delayed?
+![image](https://github.com/user-attachments/assets/c4f26f01-ff0b-47b5-adbe-afff663bf841)
 **Train departures**: Train departures are most frequent in the evenings
+![download](https://github.com/user-attachments/assets/0467a4b4-d21f-405b-b859-2610f056babe)
 
 Why departures may be more frequent in the evenings:
 - *Evening rush hour*: many workers commute home in the evenings between 4-7pm
@@ -79,13 +85,15 @@ Why departures may be less frequent in the mornings:
 Trains run most frequently on Monday, Tuesday, and Wednesday, with most delays occurring on Monday, Tuesday, and Friday. Sundays consistently show the least number of delays and trains running, indicating lower demand. This data can be used to predict the day and hour delays may be frequent.
 
 ## Do Train Cancellations Correlate with Departure Hour? ##
-
+![download](https://github.com/user-attachments/assets/8ebec727-6b22-449a-b463-9c0566725054)
 Upon calculating the correlation between departure hour & cancellation rate, we found a correlation of -0.
 016, indicating almost no relation between the two. While one might infer that the noticeable spike in train cancellations from 2pm-5pm may be due to an increased demand in departures, the data does not support a strong correlation. 
 
 ## Do The Most Popular Stations Also Have The Most Delays? ##
+![download](https://github.com/user-attachments/assets/1489c690-09de-45a3-b6df-4c229e43d4e3)
 
 Clapham Junction is the most frequently visited station. As a major transport hub, it houses connections to popular rail lines including South Western Railway, Southern, and London Overground, as well as access to major destinations such as Gatwick Airport, London Waterloo, and London Victoria. Clapham services densely populated residential areas in South West London and is in close proximity to business and commercial districts, contributing to the high passenger demand.
+![image](https://github.com/user-attachments/assets/0c8884da-e2fb-494c-9535-3eddf9a4d1e9)
 
 There is no overlap in the top 10 most frequently visited stations and stations with the highest delays. This is a positive outcome, as it indicates the most popular train stations maintain higher operational efficiency to mitigate delays. 
 
@@ -99,13 +107,20 @@ Delay facors may incude:
 ## Can We Predict If & How Long a Train Will Be Delayed 
 
 **Predictive Analysis**
+
+**Analyzing correlations**
+
+![image](https://github.com/user-attachments/assets/27205641-314b-458c-9644-83eca390c004)
+While arrival and delay have the strongest correlation, that is anticipated, as if a train was arriving late, it would likely be departing late as well. Our focus is on the positive correlation between whether a train is delayed and its arrival or departure times, suggesting that these delays are somewhat predictable based on the time of day.
+
 Built a 92.9% accurate predictive analysis model to calculate train delay. 
 
-Analysis: 
+**Analysis:** 
 While a high accuracy is generally good, given the low instances of 0 (Not Delayed), the dataset appears to be highly imbalanced, impacting the model's ability to correctly identify delays. This model is stronger at predicting when a train will not be delayed, than if it will be delayed. When prospective passengers check train schedules, it is better to incorrectly predict a delay rather than no delay to allow them time to adjust their plans. An unfavorable case may be: if a passenger is behind schedule and a delay is incorrectly predicted, they might unnecessarily change their plans. Over-predicting delays may cause unnecessary inconvenience and under-predicting them can leave passengers unprepared, resulting in significant disruptions to their plans.
 
 ## Overall Conclusion ##
-The scheduling of more or fewer trains at certain times is influenced by passenger demand, operational efficiency, maintenance needs, geographical, and demographic factors. By identifying the business's strong suits, trains can run efficiently and reliably service while managing costs and maximizing customer satisfaction.
+
+The UK train, station, and regional operators are partially equipped to predict delays and cancellations. The scheduling of more or fewer trains at certain times is influenced by passenger demand, operational efficiency, maintenance needs, geographical, and demographic factors. By identifying the business's strong suits, trains can run efficiently and reliably service while managing costs and maximizing customer satisfaction.
 
 **Reccomendations**:
 - Identify causes of cancellations and work to reduce the rate around peak hours, especially in the evening.
@@ -122,10 +137,4 @@ Some future additions that could be made to this project include:
 
 # Acknowledgments/References
 ## Authors
-
-* Riley Sample:
-  - bdb97@cornell.edu
-* Riley Sample:
-  - rcs622.rcs@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/rileysample/)
-* Brianna Browning
+For any questions, please contact **Brianna Browning** (bdb97@cornell.edu) [LinkedIn](https://www.linkedin.com/in/briannabrowning/) or **Riley Sample** at rcs622.rcs@gmail.com [LinkedIn](https://www.linkedin.com/in/rileysample/). 
