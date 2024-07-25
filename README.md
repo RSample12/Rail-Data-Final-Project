@@ -10,7 +10,7 @@
 
 # Project Overview
 
-In this application, we built a data pipeline streaming for one week (7/10/24 - 7/17/24) through Kafka from the UK National Rail Data Portal using Docker. The solution is split into five main components, each running in its own Docker container:
+In this application, we built a data pipeline streaming for one week (7/10/24 - 7/17/24) through Kafka from the UK National Rail Data Portal using Docker to analyze delay causes in the UK train systems, and present recommendations to mitigate such delays. The solution is split into five main components, each running in its own Docker container:
 
 1. **Kafka Zookeeper**: A service necessary for running the Kafka broker. It helps in maintaining the configuration information and provides distributed synchronization.
 2. **Kafka Broker**: The heart of the Kafka system that maintains the published data. Each Kafka broker can handle terabytes of messages without performance impact.
